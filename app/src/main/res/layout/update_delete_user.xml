@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="Modify"
+        android:textColor="@color/White"
+        android:textSize="18dp"
+        android:textStyle="bold"/>
+
+
+    <EditText
+        android:id="@+id/UpdateName"
+        android:layout_width="match_parent"
+        android:layout_height="58dp"
+        android:ems="10"
+        android:hint="Name"
+        android:inputType="textPersonName"
+        android:padding="10dp" />
+
+    <EditText
+        android:id="@+id/UpdateEmail"
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:ems="10"
+        android:hint="Email"
+        android:inputType="textPersonName"
+        android:padding="10dp" />
+
+    <EditText
+        android:id="@+id/UpdatePassword"
+        android:layout_width="match_parent"
+        android:layout_height="54dp"
+        android:ems="10"
+        android:hint="password"
+        android:inputType="textPersonName"
+        android:padding="10dp" />
+
+    <EditText
+        android:id="@+id/UpdatePhone"
+        android:layout_width="match_parent"
+        android:layout_height="54dp"
+        android:ems="10"
+        android:hint="Phone"
+        android:inputType="textPersonName"
+        android:padding="10dp" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+
+        <Button
+            android:id="@+id/btnDeleteUser"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/rounded_red_button"
+            android:text="Delete"
+            android:textColor="@color/White"
+            android:textSize="16dp" />
+
+        <Button
+            android:id="@+id/btnUpdateUser"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Update"
+            android:textColor="@color/White"
+            android:background="@drawable/rounded_green_button"
+            android:textSize="16dp"/>
+
+    </LinearLayout>
+</LinearLayout>

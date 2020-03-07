@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="logout">Logout</string>
+    <string name="textv">textv</string>
+    <string name="textvie">textvie</string>
+    <string name="view_questions">View Questions</string>
+    <string name="view_students">View Students</string>
+    <string name="add_question">Add Question</string>
+    <string-array name="QuizNo">
+        <item>Select Quiz No</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+</resources>
