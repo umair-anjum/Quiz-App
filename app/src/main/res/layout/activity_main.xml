@@ -10,8 +10,8 @@
 
     <Button
         android:id="@+id/btnlogin"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="95dp"
+        android:layout_height="55dp"
         android:layout_marginStart="8dp"
         android:layout_marginLeft="8dp"
         android:layout_marginTop="8dp"
@@ -24,15 +24,14 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.853"
-
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.778" />
 
     <Button
         android:id="@+id/btnsSgnup"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="94dp"
+        android:layout_height="57dp"
         android:layout_marginStart="72dp"
         android:layout_marginLeft="72dp"
         android:layout_marginTop="8dp"
@@ -62,11 +61,10 @@
         app:layout_constraintTop_toTopOf="parent">
 
 
-
         <EditText
             android:id="@+id/Rollno"
-            android:layout_width="343dp"
-            android:layout_height="85dp"
+            android:layout_width="341dp"
+            android:layout_height="64dp"
             android:layout_marginLeft="25dp"
             android:layout_marginRight="25dp"
             android:background="@drawable/round_textbox"
@@ -83,11 +81,12 @@
         <EditText
             android:id="@+id/Password"
             android:layout_width="341dp"
-            android:layout_height="85dp"
+            android:layout_height="64dp"
             android:layout_marginLeft="25dp"
             android:layout_marginRight="25dp"
             android:background="@drawable/round_textbox"
             android:ems="10"
+            android:layout_marginTop="10dp"
             android:hint="Password"
             android:inputType="textPassword"
             android:padding="10dp"
