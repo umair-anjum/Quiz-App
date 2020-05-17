@@ -1,5 +1,5 @@
 # Quiz-App-Android-Firebase
-This App is deveoped to make manual quiz to make it online and access it from anywhere.
+This App is deveoped to make manual quiz to make it online and access to multiple users to check his/her results.
 
 ## How to use
 - Clone this project
@@ -15,7 +15,7 @@ This App is deveoped to make manual quiz to make it online and access it from an
 
 ## Contributions 
 Contributions, issues and feature requests are welcome.
-Feel free to check [issues]({Link} "issues") page if you want to contribute.
+Feel free to check [issues](https://github.com/UmairAnjum86/Quiz-App/issues "issues") page if you want to contribute.
 
 ## About Me
 My name is Umair Anjum, I am Software Engineer at TECHZO Solution Pakistan. I have expertise in Native Android | React - Native| Android | Java | Kotlin | Javascript | MVVM | MVP | RxJava | Dagger | Material Design | Live Data | Data Binding.
