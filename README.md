@@ -10,7 +10,8 @@ This App is deveoped to make manual quiz to make it online and access it from an
 - Add your questions with correct answers and enjoy!!!
 
 ## App Design
-
+![](Quiz-1.png)
+![](Quiz-2.png)
 
 ## Contributions 
 Contributions, issues and feature requests are welcome.
