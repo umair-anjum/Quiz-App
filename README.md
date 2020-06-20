@@ -6,7 +6,9 @@ This App is deveoped to make manual quiz to make it online and access to multipl
 - Make you Firebase account currently connect with my own
 - In Android Studio Tools -> Firebase -> Connect Firebase
 - Run this App on your device and register a user account
-- The credentials for Admin panel is  Rollno: admin Password: admin
+- The credentials for Admin panel is:
+    Rollno: "admin"
+    Password: "admin"
 - Add your questions with correct answers and enjoy!!!
 
 ## App Design
